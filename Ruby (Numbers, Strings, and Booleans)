@@ -1,8 +1,8 @@
-my_num =     # Add your code here!
+my_num =    
 
-my_boolean =     # And here!
+my_boolean =     
 
-my_string =     # Also here.
+my_string =     
 
 puts my_num
 puts my_boolean
