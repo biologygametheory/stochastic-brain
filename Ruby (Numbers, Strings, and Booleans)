@@ -1,0 +1,9 @@
+my_num =     # Add your code here!
+
+my_boolean =     # And here!
+
+my_string =     # Also here.
+
+puts my_num
+puts my_boolean
+puts my_string
