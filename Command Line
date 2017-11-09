@@ -1,0 +1,14 @@
+$ ls
+
+$ ls                                                                                                                     
+2014  2015  hardware.txt
+#utilizing the shell prompt and methods for directory change
+
+pwd
+#navigation of a filesystem
+
+
+$ pwd
+/home/ccuser/workspace/blog
+cd 2015
+#list all files and directories in the working 
