@@ -12,3 +12,15 @@ $ pwd
 /home/ccuser/workspace/blog
 cd 2015
 #list all files and directories in the working 
+
+$ cd 2015
+#cd enables one to change directories
+
+cd kiamei/memory/
+cd ..
+#change directories
+
+cd ../feb
+mkdir media
+#lists all of the directories in a system
+
