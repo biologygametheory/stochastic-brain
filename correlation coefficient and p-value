@@ -1,3 +1,11 @@
 cor.test(data$temp, data$kwh)
 #where temp is the variable x and kwh is the variable y
 #data is obtained from CoolingWater mosaicDATA package
+#data:  x and y
+t = -0.85934, df = 115, p-value = 0.3919
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2576744  0.1031509
+sample estimates:
+        cor 
+-0.07987783 
