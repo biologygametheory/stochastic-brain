@@ -1,0 +1,3 @@
+cor.test(data$temp, data$kwh)
+#where temp is the variable x and kwh is the variable y
+#data is obtained from CoolingWater mosaicDATA package
