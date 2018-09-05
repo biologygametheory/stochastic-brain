@@ -1,0 +1,5 @@
+x<-sample(1:20,20)+rnorm(10,sd=2)
+y<-x+rnorm(10,sd=3)
+z<-(sample(1:20,20)/2)+rnorm(20,sd=5)
+df<-data.frame(x,y,z)
+plot(df[,1:3])
