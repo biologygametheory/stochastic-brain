@@ -1,1 +1,3 @@
-
+View(data)
+> sd(~math, data = data)
+#check packages methods, mosaic, mosaicData, graphics, dplyr, ggformula, ggplot2,
