@@ -1,2 +1,2 @@
 # stochastic-brain
-Command Line, Ruby, Python, R and other languages that I have experience in.
+Samples of calculations that I have done in R.
