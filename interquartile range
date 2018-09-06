@@ -1,0 +1,8 @@
+# type coolingwater to get all the rows of data, then do view(Coolingwater)
+# the objective of this command is to obtain the interquartile range
+# format: defaultname = packagename$variable
+          quantile(defaultname)
+          
+outcome = packagename$variable
+> outcome=CoolingWater$time
+> quantile(outcome)
